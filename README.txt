@@ -18,13 +18,16 @@ Ubuntu 18.04:
 
 Launch Instructions:
   > Open terminal or command prompt
-  > Go to correct directory - /a4/thicc/
-  > Input: 'npm install' into the console
-  > Run: node server.js
+  > Go to correct directory - /thicc
+  > Input: 
+  	npm install 
+    into the console to install node modules
+  > Run: 
+  	node server.js
   > Open browser and visit: http://localhost:3000/
   > You will see recipes!
   > Enter an ingredient and "submit"
-  > Or visit http://localhost:3000/?ingredient=chocolate
+  > Or visit http://localhost:3000/?ingredient=chocolate, strawberry
   > Click on any of the images to view its recipe
 
 Citation:
