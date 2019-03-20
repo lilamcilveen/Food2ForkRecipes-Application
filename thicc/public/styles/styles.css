@@ -1,0 +1,61 @@
+/* Your styles go in this file */
+
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    background-color: BlanchedAlmond
+}
+
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+}
+
+#recipes {
+    text-align: justify;
+}
+
+.recipe {
+    width: 30%;
+    display: inline-block;
+    border: 1px solid grey;
+    margin: 15px;
+    font-size: 15px
+}
+
+h1 {
+    font-size: 30px
+}
+
+.recipe img {
+    width: 100%;
+    height: 300px;
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 20px
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:focus {
+    text-decoration: none;
+}
+
+input {
+  height: 50px;
+  color: white;
+  background-color: lightskyblue;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30;
+}
